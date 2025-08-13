@@ -61,3 +61,6 @@ PRClasses.txt
 
     - 1: the program will generate the binary output file and the apriori file in the folder (arg eight, "bin") using the info in the database.
 
+
+# Other Versions
+[rmcaOSSPRMapper4](https://github.com/ryanbald-colostate/rmcaOSSPRMapper4) contains the files that can handle data for the rmca project. The main difference is that it can handle pr numbers being String rather than ints. Ignore any comments about reverting the ints, those are there since I was working on the original files.
